@@ -37,9 +37,9 @@ El proceso de instalación y configuración del entorno, así como la selección
 
 Los objetivos fundamentales de esta práctica son los siguientes:
 
-    1. Familiarización con Git y GitHub: Aprender a gestionar repositorios, crear forks, hacer commits, y trabajar con ramas.
-    2. Desarrollo en Java: Configurar y trabajar en un entorno de desarrollo adecuado para proyectos Java, con la capacidad de gestionar versiones y dependencias.
-    3. Resolución de problemas: Aprender a integrar cambios entre diferentes ramas y a resolver conflictos al trabajar en equipo, simulando un entorno de desarrollo colaborativo.
+1. Familiarización con Git y GitHub: Aprender a gestionar repositorios, crear forks, hacer commits, y trabajar con ramas.
+2. Desarrollo en Java: Configurar y trabajar en un entorno de desarrollo adecuado para proyectos Java, con la capacidad de gestionar versiones y dependencias.
+3. Resolución de problemas: Aprender a integrar cambios entre diferentes ramas y a resolver conflictos al trabajar en equipo, simulando un entorno de desarrollo colaborativo.
 
 ## 7. Resultados obtenidos:
 
