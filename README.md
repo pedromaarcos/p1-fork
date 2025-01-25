@@ -9,7 +9,7 @@ Encontramos el enunciado de la práctica en: [enunciado](https://github.com/pedr
 ## 2. Directorio de trabajo:
 
 El directorio principal de trabajo se encuentra en el repositorio original de la práctica, que se proporciona en el siguiente enlace:
-Directorio proporcionado [p1](https://github.com/gitt-3-pat/p1):
+Directorio proporcionado: [p1](https://github.com/gitt-3-pat/p1)
 
 ## 3. Fork del repositorio:
 
