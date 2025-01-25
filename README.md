@@ -1,8 +1,6 @@
 # PRÁCTICA 1
 
-Esta práctica tiene 2 objetivos:
-- Preparar el equipo del alumno para poder hacer las futuras prácticas.
-- Tener nociones de cómo usar Git y Github
+Enccontramos el enunciado de la práctica en: [enunciado](https://github.com/pedromaarcos/p1-fork/blob/main/ENUNCIADO.md)
 
 1. Directorio de trabajo:
 Directorio proporcionado [p1](https://github.com/gitt-3-pat/p1):
