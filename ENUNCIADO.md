@@ -81,5 +81,3 @@ Si el alumno no entrega a tiempo la práctica, la calificación máxima será de
 ### Referencias
   - https://github.com/gitt-3-pat/p1
   - https://git-scm.com/
-
-
