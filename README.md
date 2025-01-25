@@ -36,7 +36,7 @@ El alumno tendrá que tener cuenta en Github.
 
 ### Desarrollo de la práctica
 
-#### Git y Github:
+**Git y Github:**
 Desde la cuenta de Github hacer un "fork" del repositorio: https://github.com/gitt-3-pat/p1. A continuación, prueba los siguientes comandos sobre el anterior repositorio:
 
 ```
@@ -49,3 +49,8 @@ git checkout
 ```
 Deja en el repositorio un documento (git.txt o git.pdf) explicando los comandos anteriores: qué significan, para qué los has usado, logs que han dejado en la consola tras su ejecución.
 
+**Entorno de desarrollo Java:**
+Instala en tu equipo:
+  - Java 17
+  - Maven
+  - Editor de código fuente (VsCode + IntelliJ)
