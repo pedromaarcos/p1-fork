@@ -36,7 +36,7 @@ El alumno tendrá que tener cuenta en Github.
 
 ### Desarrollo de la práctica
 
-** Git y Github:
+#### Git y Github:
 Desde la cuenta de Github hacer un "fork" del repositorio: https://github.com/gitt-3-pat/p1. A continuación, prueba los siguientes comandos sobre el anterior repositorio:
 
 ```
